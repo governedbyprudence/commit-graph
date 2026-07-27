@@ -1,0 +1,1 @@
+*/10 * * * * bash /data/data/com.termux/files/home/commit-graph/autocommit.sh
